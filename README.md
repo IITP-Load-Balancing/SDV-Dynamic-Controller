@@ -19,4 +19,4 @@ Additionally, replace "Target" with "YourApp". In default.txt, the user can deci
 ![그림2](https://github.com/user-attachments/assets/fb7c5a9e-02ec-4cbf-9643-d5dcb9e4cb6d)
 
 ## LocalServerDynamicController
-![그림3](https://github.com/user-attachments/assets/9a2bf790-307d-464b-a711-62de95700c9c)
+![그림3](https://github.com/user-attachments/assets/91c70259-7614-4cb9-b1dc-603502cf4ed4)
