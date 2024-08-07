@@ -1,0 +1,3 @@
+Target1 1
+Target2 0
+Target3 1
