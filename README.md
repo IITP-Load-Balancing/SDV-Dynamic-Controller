@@ -1,1 +1,1 @@
-# SDV-Dynamic-Controller
+# SDV Dynamic Computation Offloading Controller
