@@ -1,0 +1,4 @@
+g++ -o target target.cpp -lpthread
+
+g++ -o main_controller main_controller.cpp -lpthread -std=c++17
+
