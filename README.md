@@ -5,3 +5,6 @@ Implementation of Dynamic Computation Offloading Control Logic in a Software-Def
 
 ## LocalOnlyController
 ![그림1](https://github.com/user-attachments/assets/13f64857-9560-4e74-b9c8-2b03eafbaca1)
+
+### Feature: Low Latency using Signal Processing
+![그림2](https://github.com/user-attachments/assets/fb7c5a9e-02ec-4cbf-9643-d5dcb9e4cb6d)
