@@ -1,8 +1,8 @@
-## CAN-Ethernet Gateway Sim
-https://github.com/Hanyoung-Park/CAN-Ethernet_Gateway_Sim/tree/main
+## Workload Analysis for Load-Balancing
+https://github.com/IITP-Load-Balancing/Workload-Analysis-for-Load-Balancing
 
 ## CAN-Ethernet Gateway Sim
-https://github.com/IITP-Load-Balancing/Workload-Analysis-for-Load-Balancing
+https://github.com/Hanyoung-Park/CAN-Ethernet_Gateway_Sim/tree/main
 
 # SDV Dynamic Computation Offloading Controller
 
