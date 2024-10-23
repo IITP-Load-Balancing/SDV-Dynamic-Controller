@@ -1,7 +1,8 @@
-# SDV Dynamic Computation Offloading Controller
-
 ## CAN-Ethernet Gateway Sim
 https://github.com/Hanyoung-Park/CAN-Ethernet_Gateway_Sim/tree/main
+
+
+# SDV Dynamic Computation Offloading Controller
 
 ## About
 Implementation of Dynamic Computation Offloading Control Logic in a Software-Defined Vehicle (SDV) System
