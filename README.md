@@ -1,4 +1,4 @@
-ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ## Workload Analysis for Load-Balancing
+## Workload Analysis for Load-Balancing
 https://github.com/IITP-Load-Balancing/Workload-Analysis-for-Load-Balancing
 
 ## CAN-Ethernet Gateway Sim
@@ -26,8 +26,3 @@ Additionally, replace "Target" with "YourApp". In default.txt, the user can deci
 
 ## LocalServerDynamicController
 ![그림3](https://github.com/user-attachments/assets/91c70259-7614-4cb9-b1dc-603502cf4ed4)
-ㅇㅇㅇㅇ
-ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-ㅇㅇㅇㅇ
-ㅇㅇㅇㅇ
-ㅇㅇㅇㅇ
