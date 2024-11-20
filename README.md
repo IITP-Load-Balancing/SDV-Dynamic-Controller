@@ -1,3 +1,6 @@
+## Joint Task Offloading and Resource Allocation for Integrated V2V and V2I Communication
+[https://github.com/IITP-Load-Balancing/V2V-and-V2I-task-offloading](https://github.com/IITP-Load-Balancing/V2V-and-V2I-task-offloading)
+
 ## Workload Analysis for Load-Balancing 
 https://github.com/IITP-Load-Balancing/Workload-Analysis-for-Load-Balancing
 
